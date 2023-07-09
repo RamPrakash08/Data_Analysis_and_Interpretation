@@ -1,4 +1,4 @@
-Dependence of kinematic variables and charge particle multiplicity distribution on charge asymmetry in pp collision at 13 TeV
+Dependence of kinematic variables & charge particle multiplicity distribution on charge asymmetry in pp collision at 13 TeV
                  -Supervised by Prof. Sadhana Dash, Department of Physics, IIT Bombay
 Name      : Ram Prakash
 Roll No.  : 210260042
